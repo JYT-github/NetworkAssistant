@@ -1,0 +1,45 @@
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\bin\Debug\自制网络助手.exe.config
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\bin\Debug\自制网络助手.exe
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\bin\Debug\自制网络助手.pdb
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.csprojResolveAssemblyReference.cache
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.Form1.resources
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.Properties.Resources.resources
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.csproj.GenerateResource.Cache
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.exe
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.pdb
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytSerialPortForm.resources
+c:\users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytTcpServerFrom.resources
+C:\Users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytAddCmdTxts.resources
+C:\Users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytTcpClientFrom.resources
+C:\Users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytUdpClientFrom.resources
+C:\Users\17307\documents\visual studio 2015\Projects\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytUdpServerFrom.resources
+D:\C#\自制网络助手\自制网络助手\bin\Debug\自制网络助手.exe.config
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.exe
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.pdb
+D:\C#\自制网络助手\自制网络助手\bin\Debug\自制网络助手.exe
+D:\C#\自制网络助手\自制网络助手\bin\Debug\自制网络助手.pdb
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.csprojResolveAssemblyReference.cache
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.Form1.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytAddCmdTxts.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytSerialPortForm.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytTcpClientFrom.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytTcpServerFrom.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytUdpClientFrom.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.jytUdpServerFrom.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.Properties.Resources.resources
+D:\C#\自制网络助手\自制网络助手\obj\Debug\自制网络助手.csproj.GenerateResource.Cache
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\bin\Debug\自制网络助手.exe.config
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.exe
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.pdb
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\bin\Debug\自制网络助手.exe
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\bin\Debug\自制网络助手.pdb
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.csprojResolveAssemblyReference.cache
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.Form1.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytAddCmdTxts.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytSerialPortForm.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytTcpClientFrom.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytTcpServerFrom.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytUdpClientFrom.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.jytUdpServerFrom.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.Properties.Resources.resources
+D:\VSData\C# 网络调试助手 源码 （内有串口、TCP、UDP、http服务）\自制网络助手\obj\Debug\自制网络助手.csproj.GenerateResource.Cache
